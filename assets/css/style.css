@@ -1945,7 +1945,7 @@ footer .footer-item .footer-touch ul li a:hover {
 /*----- About Me CSS -----*/
 /*-- Page Title --*/
 .page-title-area-two {
-  background-image: url("../img/about-me-main.jpg");
+  background-image: url("../img/Assets/302240798_5735282669838119_3741504468916383970_n.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3133,7 +3133,7 @@ footer .footer-item .footer-touch ul li a:hover {
   position: absolute;
   top: 0;
   left: 0;
-  color: #c1ab65;
+  color: rgb(15, 169, 88);
   font-size: 30px;
 }
 
@@ -3178,7 +3178,7 @@ footer .footer-item .footer-touch ul li a:hover {
   display: block;
   text-align: center;
   color: #ffffff;
-  background-color: #c1ab65;
+  background-color: rgb(15, 169, 88);
   border-radius: 50%;
   font-size: 20px;
 }
@@ -3272,7 +3272,7 @@ footer .footer-item .footer-touch ul li a:hover {
 }
 
 .back-to-top-btn i {
-  background: #c1ab65;
+  background: rgb(15, 169, 88);
   color: #ffffff;
   height: 50px;
   width: 50px;
@@ -3284,8 +3284,8 @@ footer .footer-item .footer-touch ul li a:hover {
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
   margin-right: 28px;
-  -webkit-box-shadow: 0px 0px 14px 0px #c1ab65;
-          box-shadow: 0px 0px 14px 0px #c1ab65;
+  -webkit-box-shadow: 0px 0px 14px 0px #3ec84c;
+          box-shadow: 0px 0px 14px 0px #3bb858;
 }
 
 .back-to-top-btn i:hover {
